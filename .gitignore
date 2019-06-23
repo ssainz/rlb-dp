@@ -149,3 +149,8 @@ sympy-plots-for-*.tex/
 
 # ignore value table
 v_nb_N*.txt
+
+# ignore dnb
+rlb_dnb*.txt
+
+[0-9].txt
